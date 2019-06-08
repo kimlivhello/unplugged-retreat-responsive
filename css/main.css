@@ -378,6 +378,12 @@ input[type=button] {
     padding: 50px 0;
 }
 
+.contact-section h2,
+.contact-section h4,
+.contact-section p {
+    text-align: center;
+}
+
 /******** FAQ Page ********/
 
 .faq-section {
@@ -667,7 +673,7 @@ input[type=button] {
 
 @media only screen and (min-width: 1200px) {
 
-    /***** GLOBAL TABLET STYLES *****/
+    /***** DESKTOP STYLES *****/
 
     html {
         font-size: 18px;
